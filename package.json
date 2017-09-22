@@ -1,0 +1,21 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Study Guide",
+  "main": "BasicAndCloze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://taylorson.github.io/Flashcard-Generator/"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "Taylor",
+  "license": "ISC",
+  "devDependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
